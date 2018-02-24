@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://yeelone.github.io/sitemap.xml

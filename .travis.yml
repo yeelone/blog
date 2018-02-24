@@ -13,8 +13,6 @@ deploy:
         branch: master
     local_dir: public
     repo: yeelone/yeelone.github.io
-    fqdn: <custom-domain-if-needed>
     target_branch: master
     email: yljckh@gmail.com
     name: yeelone
-    

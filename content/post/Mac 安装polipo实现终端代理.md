@@ -1,3 +1,11 @@
+---
+title: "Mac 安装polipo实现终端代理"
+date: 2018-04-30T18:44:29+08:00
+tags : ["polipo", "proxy"]
+categories : ["tool"]
+---
+
+
 ## Mac 安装polipo实现终端代理
 
 一直用shadowsock，但go get 不支持sock5，所以需要借用polipo来实现终端代理

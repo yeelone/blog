@@ -1,6 +1,6 @@
 ---
 title: "NSQ学习笔记（一）"
-date: 2018-05-02T:23:16+08:00
+date: 2018-05-02T23:16:10+08:00
 tags : ["golang", "nsq","学习笔记"]
 categories : ["NSQ","Golang"]
 ---

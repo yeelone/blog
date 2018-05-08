@@ -1,14 +1,9 @@
-\---
-
+---
 title: "Next.js 初体验"
-
 date: 2018-05-08T15:44:29+08:00
-
 tags : ["Next.js", "typescript"]
-
 categories : ["Next.js"]
-
-\---
+---
 
 
 
